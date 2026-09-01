@@ -16,12 +16,3 @@ Aplikasi Chatbot interaktif berbasis **AI & Streamlit** yang dirancang untuk mem
 * ⚡ **Respons Cepat & Interaktif:** Menggunakan interface percakapan *chat-style* yang ramah pengguna.
 
 ---
-
-## 🚀 Cara Menjalankan Secara Lokal
-
-Jika Anda ingin menjalankan proyek ini di komputer lokal, ikuti langkah berikut:
-
-### 1. Clone Repositori
-```bash
-git clone [https://github.com/username-anda/nama-repo-anda.git](https://github.com/username-anda/nama-repo-anda.git)
-cd nama-repo-anda
